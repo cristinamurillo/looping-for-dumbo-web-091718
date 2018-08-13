@@ -1,7 +1,8 @@
 
 def using_for
 	checklist = 1..10
-	for charm 
+	for item in checklist
+	
 end
 
 
